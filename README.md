@@ -8,7 +8,7 @@ We have released hundreds of pypi repos, see details at  https://pypi.org/search
 
 ## Issues Track
 
-You many report all repos' bug here. Suggest issues title format is `[repo name]the problem`.
+You may report all repos' bug here. Suggest issues title format is `[repo name]the problem`.
 
 ## Tips
 
