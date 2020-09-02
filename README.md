@@ -4,7 +4,7 @@ Issue center for zencore repos.
 
 ## Our Repos
 
-We have released hundreds of pypi repos, see details at  https://pypi.org/search/?q=zencore&o=-created.
+We have released hundreds of pypi repos, see details at https://pypi.org/user/zencore/.
 
 ## Issues Track
 
